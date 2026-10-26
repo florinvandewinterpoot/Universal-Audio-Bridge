@@ -2,7 +2,7 @@
 
 A small Windows tool that takes audio from a microphone or audio interface (ASIO, WASAPI or MME) and sends it to [VB-CABLE](https://vb-audio.com/Cable/), a virtual audio device. This lets applications that don't support ASIO, such as Counter-Strike, use your interface's microphone as a regular input device.
 
-![image alt](https://github.com/florinvandewinterpoot/Universal-Audio-Bridge/blob/88f38a16f53f288887046b0f1d3a04106b80d687/Screenshot%202026-10-25%20171550.png)
+![image alt](https://github.com/florinvandewinterpoot/Universal-Audio-Bridge/blob/bff51e30baaca99aa110c5b443f04c642f001d4d/Screenshot%202026-10-26%20150551.png)
 
 ## Features
 
